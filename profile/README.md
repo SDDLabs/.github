@@ -1,6 +1,6 @@
 ## Welcome to SDDLabs
-
-*This slide should feature your company logo and a welcoming message.*
+<img width="1024" height="477" alt="sddlabs-full-image-logo" src="https://github.com/user-attachments/assets/cb1fd94c-19ee-4ac5-8395-5f8952025a34" />
+</br></br></br>
 
 Welcome, everyone! Today, we're going to give you a look behind the curtain at who we are, what we do, and what makes SDDLabs a truly unique place to work. We'll show you not just the jobs we have, but the innovative vision we're building and the people who are making it happen.
 
@@ -14,7 +14,7 @@ Our mission is our purpose. It's why we get up in the morning and do what we do.
 
 ### Our Vision: Where We're Going
 
-Our vision is our long-term goal—the future we're working to create. We're not just building software; we're shaping an industry. Our vision is to **become the global leader in [Specific Industry, e.g., 'data analytics,' 'software development,' 'AI solutions'] recognized for our relentless innovation and technical excellence.**
+Our vision is our long-term goal—the future we're working to create. We're not just building software; we're shaping an industry. Our vision is to **become the global leader in Computer Vision recognized for our relentless innovation and technical excellence.**
 
 ---
 
@@ -29,7 +29,7 @@ Culture isn't just about office perks; it's about how we work together every day
 
 ---
 
-## Your Career Path Here
+## Career Path
 
 We don't just hire people to fill a role; we invest in their long-term growth. We believe in building careers, not just jobs. Your journey with us is a personalized path for professional development and continuous learning.
 
